@@ -14,3 +14,7 @@ have a space to add more information.
 * They can choose to go back or to confirm their submission.
 * If they confirm their submission they get a message telling them that they successfully submitted the form.
   
+Tools used,
+* HTML.
+* CSS.
+* JS.
