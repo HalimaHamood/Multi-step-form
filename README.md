@@ -6,7 +6,8 @@ Multi-step form.
 User story:
 * The user sees a form.
 * The user can insert their name, select their marital status, 
-add their date of birth, have the option to optionally insert their email,
+add their date of birth, 
+have the option to optionally insert their email,
 have a space to add more information.
 * A submit button.
 * When the form is submitted, the page changes to a review step.
