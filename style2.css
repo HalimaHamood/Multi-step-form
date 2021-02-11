@@ -1,0 +1,16 @@
+h2 {
+  margin: 30px;
+}
+button {
+  width: 120px;
+  height: 35px;
+  color: white;
+  position: relative;
+  cursor: pointer;
+  border-radius: 7px;
+  background-color: rgb(4, 114, 114);
+  border: none;
+  margin-left: 25px;
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
