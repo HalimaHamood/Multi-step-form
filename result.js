@@ -14,10 +14,6 @@ window.addEventListener('load', ()=>{
    
 })
 
-function alertMsg() {
-    alert('Thank You! Successfully Submitted');
-  }
-
 
 function goBack() {
   window.history.back();
